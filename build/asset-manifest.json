@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.6c24cc4f.chunk.css",
-    "main.js": "./static/js/main.bdff2546.chunk.js",
+    "main.js": "./static/js/main.bad42546.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0c63c01b.js",
-    "static/js/2.1eb6866e.chunk.js": "./static/js/2.1eb6866e.chunk.js",
+    "static/js/2.ec0ed4bf.chunk.js": "./static/js/2.ec0ed4bf.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.1eb6866e.chunk.js.LICENSE.txt": "./static/js/2.1eb6866e.chunk.js.LICENSE.txt",
+    "static/js/2.ec0ed4bf.chunk.js.LICENSE.txt": "./static/js/2.ec0ed4bf.chunk.js.LICENSE.txt",
     "static/media/33together.scss": "./static/media/33-together-spritesheet.158b1a33.png",
     "static/media/BEETS-FTM.a7e20ef2.svg": "./static/media/BEETS-FTM.a7e20ef2.svg",
     "static/media/BOBA.88ed381c.svg": "./static/media/BOBA.88ed381c.svg",
@@ -96,8 +96,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0c63c01b.js",
-    "static/js/2.1eb6866e.chunk.js",
+    "static/js/2.ec0ed4bf.chunk.js",
     "static/css/main.6c24cc4f.chunk.css",
-    "static/js/main.bdff2546.chunk.js"
+    "static/js/main.bad42546.chunk.js"
   ]
 }
