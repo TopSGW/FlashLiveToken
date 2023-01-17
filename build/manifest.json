@@ -1,0 +1,13 @@
+{
+  "short_name": "OlympusDAO",
+  "start_url": ".",
+  "homepage": "./",
+  "name": "OlympusDAO",
+  "launch_path": "/public/index.html",
+  "icons": [
+
+  ],
+  "display": "browser",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
