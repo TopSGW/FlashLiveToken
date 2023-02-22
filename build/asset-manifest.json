@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.12ade824.chunk.css",
-    "main.js": "/static/js/main.04ccba85.chunk.js",
+    "main.css": "/static/css/main.3b520ec6.chunk.css",
+    "main.js": "/static/js/main.12346b50.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.08829427.js",
-    "static/js/2.ae758ac1.chunk.js": "/static/js/2.ae758ac1.chunk.js",
+    "static/js/2.02166123.chunk.js": "/static/js/2.02166123.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.ae758ac1.chunk.js.LICENSE.txt": "/static/js/2.ae758ac1.chunk.js.LICENSE.txt",
+    "static/js/2.02166123.chunk.js.LICENSE.txt": "/static/js/2.02166123.chunk.js.LICENSE.txt",
     "static/media/33together.scss": "/static/media/33-together-spritesheet.158b1a33.png",
     "static/media/BEETS-FTM.a7e20ef2.svg": "/static/media/BEETS-FTM.a7e20ef2.svg",
-    "static/media/BFlashdexservice.d2b9e360.svg": "/static/media/BFlashdexservice.d2b9e360.svg",
+    "static/media/BFlashdexservice.904e6dc6.svg": "/static/media/BFlashdexservice.904e6dc6.svg",
     "static/media/BOBA.88ed381c.svg": "/static/media/BOBA.88ed381c.svg",
     "static/media/Bluewallet.117cefd2.svg": "/static/media/Bluewallet.117cefd2.svg",
     "static/media/ConnectWalletBtn.300d8752.svg": "/static/media/ConnectWalletBtn.300d8752.svg",
@@ -17,6 +17,7 @@
     "static/media/DUSK.9632deb1.svg": "/static/media/DUSK.9632deb1.svg",
     "static/media/ETH.1e06fc90.svg": "/static/media/ETH.1e06fc90.svg",
     "static/media/FHUD.5b88e0aa.svg": "/static/media/FHUD.5b88e0aa.svg",
+    "static/media/font.css": "/static/media/LEMONMILK-RegularItalic.a6d3bdd1.otf",
     "static/media/LQDR-FTM.860b8c8e.svg": "/static/media/LQDR-FTM.860b8c8e.svg",
     "static/media/LUNA.b321a913.svg": "/static/media/LUNA.b321a913.svg",
     "static/media/ListWhiteSvg.242fb627.svg": "/static/media/ListWhiteSvg.242fb627.svg",
@@ -36,7 +37,7 @@
     "static/media/USDC.93752c99.svg": "/static/media/USDC.93752c99.svg",
     "static/media/USDT.5e0f65aa.svg": "/static/media/USDT.5e0f65aa.svg",
     "static/media/VADER.ada3ceac.svg": "/static/media/VADER.ada3ceac.svg",
-    "static/media/WFlashdexservice.6763d5a5.svg": "/static/media/WFlashdexservice.6763d5a5.svg",
+    "static/media/WFlashdexservice.b70819f3.svg": "/static/media/WFlashdexservice.b70819f3.svg",
     "static/media/arbitrum_icon.74ca6375.svg": "/static/media/arbitrum_icon.74ca6375.svg",
     "static/media/arrow-down.9de3bdc9.svg": "/static/media/arrow-down.9de3bdc9.svg",
     "static/media/arrow-right.1c7338c0.svg": "/static/media/arrow-right.1c7338c0.svg",
@@ -106,8 +107,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.08829427.js",
-    "static/js/2.ae758ac1.chunk.js",
-    "static/css/main.12ade824.chunk.css",
-    "static/js/main.04ccba85.chunk.js"
+    "static/js/2.02166123.chunk.js",
+    "static/css/main.3b520ec6.chunk.css",
+    "static/js/main.12346b50.chunk.js"
   ]
 }
