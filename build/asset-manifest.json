@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.90bca0ed.chunk.css",
-    "main.js": "/static/js/main.30a665a4.chunk.js",
+    "main.js": "/static/js/main.50309f74.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.08829427.js",
     "static/js/2.eff251ad.chunk.js": "/static/js/2.eff251ad.chunk.js",
     "index.html": "/index.html",
@@ -53,7 +53,7 @@
     "static/media/bridge.56686de7.svg": "/static/media/bridge.56686de7.svg",
     "static/media/bsc_icon.9175fca2.svg": "/static/media/bsc_icon.9175fca2.svg",
     "static/media/caret-down.d1850127.svg": "/static/media/caret-down.d1850127.svg",
-    "static/media/cronos_icon.36b239a6.svg": "/static/media/cronos_icon.36b239a6.svg",
+    "static/media/cronos_iconB.c2e0847d.svg": "/static/media/cronos_iconB.c2e0847d.svg",
     "static/media/crystalball.b890cb62.svg": "/static/media/crystalball.b890cb62.svg",
     "static/media/dashboard.b515b7b2.svg": "/static/media/dashboard.b515b7b2.svg",
     "static/media/dex.a8154a96.svg": "/static/media/dex.a8154a96.svg",
@@ -109,6 +109,6 @@
     "static/js/runtime-main.08829427.js",
     "static/js/2.eff251ad.chunk.js",
     "static/css/main.90bca0ed.chunk.css",
-    "static/js/main.30a665a4.chunk.js"
+    "static/js/main.50309f74.chunk.js"
   ]
 }
